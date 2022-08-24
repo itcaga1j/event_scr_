@@ -33,5 +33,26 @@ Scraping Eventim website
 
 Link: https://www.eventim.de/en/
 
+## Installation and starting in Google Colab
+
+#### Step 1: Install Scrapy in virtual environment
+
+![image](https://user-images.githubusercontent.com/92359665/186121663-b463dc07-9ca3-4529-9d81-d382142ae864.png)
+
+#### Step 2: Creating Our Scrapy Project
+
+![image](https://user-images.githubusercontent.com/92359665/186122134-a8249e44-ab7b-4ac8-bc31-70a53141a5d7.png)
+
+#### Step 3: Creating the Spider
+
+![image](https://user-images.githubusercontent.com/92359665/186122371-d72ab30c-d583-4286-bbd7-652a93d702d6.png)
+
+#### Step 4: Scrapy Shell: Finding CSS Selectors
+
+![image](https://user-images.githubusercontent.com/92359665/186122789-213c14cd-aaa3-4eb6-b7ef-2e693286ec36.png)
+
+#### Step 5: Running Spider
+
+
 
 
